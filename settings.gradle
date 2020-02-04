@@ -1,0 +1,2 @@
+include ':app', ':ex6', ':diarydb'
+rootProject.name='Diary'
